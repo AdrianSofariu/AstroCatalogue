@@ -1,4 +1,4 @@
-# 🌌 **<span style="color:#ffcc00">AstroCatalogue</span>**
+# 🌌 **<span style="color:blue">AstroCatalogue</span>**
 
 AstroCatalogue is a personal project dedicated to **astrophotography**. 🚀
 The app allows users to contribute photos of different **celestial bodies** and **structures**, creating a comprehensive archive of the **night sky** and **deep space images**. ✨
