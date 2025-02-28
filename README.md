@@ -5,7 +5,7 @@ The app allows users to contribute photos of different **celestial bodies** and 
 
 ---
 
-## 📂 **Features**
+## 📂 **Initial planned features**
 
 ### 🛸 User Accounts
 Create an account to join the cosmic community and share your astrophotography.
@@ -17,7 +17,7 @@ For the explorers out there! Contribute by adding a new celestial object to the 
 Enhance the collection by adding your stunning shots to a specific celestial subject.
 
 ### 🔭 Scientific Information
-Each subject comes with detailed **astronomical data**: planets, stars, constellations, and more!
+Each subject comes with brief **astronomical data**: planets, stars, constellations, and more!
 
 ### ⭐ Photo Ratings
 Rate photos and appreciate breathtaking astrophotography from fellow stargazers.
